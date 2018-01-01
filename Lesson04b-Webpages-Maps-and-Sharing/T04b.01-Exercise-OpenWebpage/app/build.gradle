@@ -5,7 +5,7 @@ android {
     buildToolsVersion "26.0.2"
 
     defaultConfig {
-        applicationId "com.example.android.explicitintent"
+        applicationId "com.example.android.implicitintents"
         minSdkVersion 14
         targetSdkVersion 26
         versionCode 1
